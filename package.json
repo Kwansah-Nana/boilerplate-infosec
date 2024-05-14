@@ -1,7 +1,7 @@
 {
-	"name": "fcc-infosec-challenges",
+	"name": "khofi-whisper-challenges",
 	"version": "0.0.1",
-	"description": "fcc backend boilerplate",
+	"description": "khofi backend boilerplate",
 	"main": "server.js",
 	"scripts": {
 		"start": "node myApp.js"
@@ -16,5 +16,5 @@
 		"express",
 		"freecodecamp"
 	],
-	"license": "MIT"
+	"license": "Kho"
 }
